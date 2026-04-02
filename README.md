@@ -38,16 +38,13 @@
 ![SQL Server](https://img.shields.io/badge/SQLServer-red?style=for-the-badge\&logo=microsoft-sql-server)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazo43\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazo43\&layout=compact\&theme=tokyonight)
 
 ---
 

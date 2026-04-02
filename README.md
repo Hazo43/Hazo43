@@ -3,29 +3,19 @@
 
 ---
 
-💻 I'm a backend developer passionate about building clean and scalable systems using modern technologies.
+<.NET Developer>
 
-🚀 Currently improving my skills in:
+🔭 I’m currently working on improving my ASP.NET Core backend skills
 
-* ASP.NET Core
-* REST APIs
-* Clean Architecture
-* Database Design
+🌱 I’m learning more about C#, EF Core, Clean Architecture, and API security
 
-🧠 Always learning more about:
+👯 I’m looking to collaborate on .NET projects or backend-focused applications
 
-* C#
-* Entity Framework Core
-* API Security
-* Software Architecture
+💬 Ask me about C#,.NET Core, REST APIs, Identity, Entity Framework Core
 
-🤝 I’m looking to collaborate on:
+📫 How to reach me: hazogaber10@gmail.com
 
-* .NET backend projects
-* API-based applications
-* Backend-focused systems
-
-⚡ Fun fact: I enjoy solving complex backend problems and building structured systems.
+⚡ Fun fact: I love building structured systems and solving tricky bugs 😄
 
 ---
 

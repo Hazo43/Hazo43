@@ -16,8 +16,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Socials
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazo43&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([PUT_LINK_HERE](https://www.linkedin.com/in/abdelrahmen-gaber-010750345/))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazo43&layout=compact&theme=tokyonight)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/17NS8tfuEY/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hazo.gaber?igsh=ODh1Z2M3OTY4Z3Rr)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](hazogaber10@gmail.com)

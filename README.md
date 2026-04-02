@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Abdelrahmen Gaber</h1>
-<h3 align="center">Backend Developer | .NET Enthusiast</h3>
+<h3 align="center">Backend Developer <.NET></h3>
 
 ---
 

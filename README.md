@@ -1,27 +1,64 @@
-  
-
-# 👋 Hi, I'm Hazo
-
-### Backend Developer (.NET)
+<h1 align="center">👋 Hi, I'm Abdelrahmen Gaber</h1>
+<h3 align="center">Backend Developer | .NET Enthusiast</h3>
 
 ---
 
-## 💻 Tech Stack
+💻 I'm a backend developer passionate about building clean and scalable systems using modern technologies.
 
-![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=c-sharp)
-![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=.net)
-![SQL Server](https://img.shields.io/badge/SQLServer-red?style=for-the-badge&logo=microsoft-sql-server)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+🚀 Currently improving my skills in:
+
+* ASP.NET Core
+* REST APIs
+* Clean Architecture
+* Database Design
+
+🧠 Always learning more about:
+
+* C#
+* Entity Framework Core
+* API Security
+* Software Architecture
+
+🤝 I’m looking to collaborate on:
+
+* .NET backend projects
+* API-based applications
+* Backend-focused systems
+
+⚡ Fun fact: I enjoy solving complex backend problems and building structured systems.
 
 ---
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([PUT_LINK_HERE](https://www.linkedin.com/in/abdelrahmen-gaber-010750345/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abdelrahmen-gaber-010750345/)
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/share/17NS8tfuEY/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.instagram.com/hazo.gaber?igsh=ODh1Z2M3OTY4Z3Rr)
 
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/hazo.gaber?igsh=ODh1Z2M3OTY4Z3Rr)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook)](https://www.facebook.com/share/17NS8tfuEY/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](hazogaber10@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:hazogaber10@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge\&logo=c-sharp)
+![.NET](https://img.shields.io/badge/.NET-purple?style=for-the-badge\&logo=.net)
+![SQL Server](https://img.shields.io/badge/SQLServer-red?style=for-the-badge\&logo=microsoft-sql-server)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazo43\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazo43\&layout=compact\&theme=tokyonight)
+
+---
+
+🔥 Always working on improving my backend development skills and building better software systems.

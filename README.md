@@ -21,13 +21,12 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abdelrahmen-gaber-010750345/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge\&logo=instagram)](https://www.instagram.com/hazo.gaber?igsh=ODh1Z2M3OTY4Z3Rr)
-
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge\&logo=facebook)](https://www.facebook.com/share/17NS8tfuEY/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge\&logo=gmail)](mailto:hazogaber10@gmail.com)
+<p>
+<a href="https://www.linkedin.com/in/abdelrahmen-gaber-010750345/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.instagram.com/hazo.gaber?igsh=ODh1Z2M3OTY4Z3Rr"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram"/></a>
+<a href="https://www.facebook.com/share/17NS8tfuEY/"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/></a>
+<a href="mailto:hazogaber10@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+</p>
 
 ---
 
